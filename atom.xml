@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[李安朔的技术博客]]></title>
+  <link href="http://lianshuoDEV.com/atom.xml" rel="self"/>
+  <link href="http://lianshuoDEV.com/"/>
+  <updated>2015-02-10T14:39:10+08:00</updated>
+  <id>http://lianshuoDEV.com/</id>
+  <author>
+    <name><![CDATA[李安朔]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[我的第一篇博客学习如何搭建git-blog]]></title>
+    <link href="http://lianshuoDEV.com/blog/2015/02/10/wo-de-di-%5B%3F%5D-pian-bo-ke-xue-xi-ru-he-da-jian-git-blog/"/>
+    <updated>2015-02-10T13:55:21+08:00</updated>
+    <id>http://lianshuoDEV.com/blog/2015/02/10/wo-de-di-[?]-pian-bo-ke-xue-xi-ru-he-da-jian-git-blog</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
